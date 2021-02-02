@@ -1,7 +1,7 @@
 const fname = 'ankan';
 const lname = 'lahiri';
 //const fullName = fname + lname + " is a good boy";
-const fullName = `${fname} ${lname} is a good boy`
+const fullName = `${fname} ${lname} ${10+20+10} is a good boy`
 console.log(fullName); 
 
 /* old system
